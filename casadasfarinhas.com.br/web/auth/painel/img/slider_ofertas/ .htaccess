@@ -1,0 +1,6 @@
+SetEnvIf Referer localhost/casadasfarinhas/index.php localreferer
+<FilesMatch \.(jpg|jpeg|png|gif|webp)$>
+Order deny,allow
+Deny from all
+Allow from env=localreferer
+</FilesMatch>
