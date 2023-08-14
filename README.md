@@ -7,7 +7,7 @@ Este é meu primeiro projeto real em produção, não foi fruto de um cursinho, 
   
 <a href="https://casadasfarinhas.com.br" target="_blank">
   <p>Ver o site</p>
-  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/casadasfarinhas.com.br/Captura%20de%20tela%20de%202023-07-06%2021-27-56.png" width="1920px" target="_blank"/>     
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-08-14%2020-38-09.png" width="1920px" target="_blank"/>     
 </a>  
   <div align="center">
     
