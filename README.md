@@ -2,8 +2,7 @@
 
 
 
-Este é meu primeiro projeto real em produção, não foi fruto de um cursinho, e sim fruto do meu esforço e tentativas e erro, 
-```Partiu Estudar Java...``` Não espere outros projetos PHP, esse foi o primeiro e último.
+Este é meu primeiro projeto real em produção, fruto do meu esforço e várias tentativas e erros.
   
 <a href="https://casadasfarinhas.com.br" target="_blank">
   <p>Ver o site</p>
