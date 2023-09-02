@@ -8,6 +8,17 @@ Este é meu primeiro projeto real em produção, não foi fruto de um cursinho, 
 <a href="https://casadasfarinhas.com.br" target="_blank">
   <p>Ver o site</p>
   <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-08-14%2020-38-09.png" width="1920px" target="_blank"/>     
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-05-53.png" width="1920px" target="_blank"/>   
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-06-30.png" width="1920px" target="_blank"/>   .
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-06-46.png" width="1920px" target="_blank"/>   .
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-07-45.png" width="1920px" target="_blank"/>   .
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-08-16.png" width="1920px" target="_blank"/>   .
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-07-04.png" width="1920px" target="_blank"/>   .
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-07-17.png" width="1920px" target="_blank"/>   .
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-08-38.png" target="_blank"/>   
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-09-04.png" width="1920px" target="_blank"/>   
+  
+  
 </a>  
   <div align="center">
     
