@@ -6,7 +6,7 @@ Este é meu primeiro projeto real em produção, fruto do meu esforço e várias
   
 <a href="https://casadasfarinhas.com.br" target="_blank">
   <p>Ver o site</p>
-  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-08-14%2020-38-09.png" width="1920px" target="_blank"/>     
+  <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-10%2013-16-56.png" width="1920px" target="_blank"/>     
   <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-05-53.png" width="1920px" target="_blank"/>   
   <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-06-30.png" width="1920px" target="_blank"/>   .
   <img src="https://github.com/leandroSJ/Atualizacao_site_Casadasfarinhas/blob/main/Captura%20de%20tela%20de%202023-09-01%2023-06-46.png" width="1920px" target="_blank"/>   .
