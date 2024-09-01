@@ -2,7 +2,7 @@
 
 
 
-Este é meu primeiro projeto real em produção, fruto do meu esforço e várias tentativas e erros.
+Este é meu primeiro projeto real e que entrou em produção, fruto do meu esforço foram várias tentativas e erros, sim,  com certeza não é a melhor forma de se fazer mas, quem é bom em desculpas não é bom em mais nada, eu não sei fazer mas com um pouco de pesquisa e vontade de aprender saiu isso, daqui há uns anos voltarei aqui e me lembrarei de como comecei
   
 <a href="https://casadasfarinhas.com.br" target="_blank">
   <p>Ver o site</p>
